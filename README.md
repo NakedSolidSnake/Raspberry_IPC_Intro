@@ -74,7 +74,7 @@ Neste caso os dados serão entregues diretamente ao processo que está realizand
 * DBus - é um barramento de mensagens de sistema, um jeito simples para aplicações conversar umas com as outras. Além da comunicação intra-processos, ajuda a coordenar o ciclo de vida do processo, tornando simples e confiável a codificação de um aplicativo ou _daemon_ de uma única instância, e inicia os aplicativos e _daemons_ sob demanda quando o serviço for requisitado.
 
 ## Conclusão
-Neste artigo foi descrito o que são os _IPC's_ e quais são os tipos de _IPC_ existentes, no próximo artigo será apresentado a biblioteca que será utilizada para poder executar todos os exemplos.
+Neste artigo foi descrito o que são os _IPC's_ e quais são os tipos de _IPC_ existentes, no próximo artigo será apresentado a [biblioteca](https://github.com/NakedSolidSnake/Raspberry_lib_hardware) que será utilizada para poder executar todos os exemplos.
 
 ## Referências
 * [Kamran Amini - Extreme C](https://www.packtpub.com/free-ebook/extreme-c/9781789343625)
