@@ -37,7 +37,7 @@ Requer um meio, como um armazenamento para compartilhar os dados, isso porque os
 
 <p align="center">
     <img src="img/pull-based.png" />
-    <figcaption>Fig.1 - Relacionamento entre processos no modelo _pull-based_.</figcaption>
+    <figcaption><p align="center">Fig.1 - Relacionamento entre processos no modelo <i>pull-based</i>.</p></figcaption>
 </p>
 
 ### _push-based_
@@ -49,7 +49,7 @@ Neste caso os dados serão entregues diretamente ao processo que está realizand
 
 <p align="center">
     <img src="img/push-based.png" />
-    <figcaption>Fig.2 - Relacionamento entre processos no modelo _push-based_.</figcaption>
+    <figcaption><p align="center">Fig.2 - Relacionamento entre processos no modelo <i>push-based</i>.</p></figcaption>
 </p>
 
 ## Descrição dos tipos de _IPC_
@@ -77,8 +77,8 @@ Neste caso os dados serão entregues diretamente ao processo que está realizand
 Neste artigo foi descrito o que são os _IPC's_ e quais são os tipos de _IPC_ existentes, no próximo artigo será apresentado a biblioteca que será utilizada para poder executar todos os exemplos.
 
 ## Referências
-[Kamran Amini - Extreme C](https://www.packtpub.com/free-ebook/extreme-c/9781789343625)
-[Mark Mitchell, Jeffrey Oldham, and Alex Samuel - Advanced Linux Programming](https://www.amazon.com.br/Advanced-Linux-Programming-CodeSourcery-LLC/dp/0735710430)
-[Neil Matthew, and Richard Stones - Beginning Linux® Programming 4th Edition ](https://www.amazon.com.br/Beginning-Linux-Programming-Neil-Matthew/dp/0470147628)
-[Michael Kerrisk - The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com.br/Linux-Programming-Interface-System-Handbook/dp/1593272200)
-[Freedesktop: What is D-Bus?](https://www.freedesktop.org/wiki/Software/dbus/)
+* [Kamran Amini - Extreme C](https://www.packtpub.com/free-ebook/extreme-c/9781789343625)
+* [Mark Mitchell, Jeffrey Oldham, and Alex Samuel - Advanced Linux Programming](https://www.amazon.com.br/Advanced-Linux-Programming-CodeSourcery-LLC/dp/0735710430)
+* [Neil Matthew, and Richard Stones - Beginning Linux® Programming 4th Edition ](https://www.amazon.com.br/Beginning-Linux-Programming-Neil-Matthew/dp/0470147628)
+* [Michael Kerrisk - The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com.br/Linux-Programming-Interface-System-Handbook/dp/1593272200)
+* [Freedesktop: What is D-Bus?](https://www.freedesktop.org/wiki/Software/dbus/)
