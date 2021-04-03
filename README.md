@@ -6,9 +6,11 @@
 
 ## Tópicos
 * [Introdução](#introdução)
-* [fork](#fork)
-* [exec](#exec)
-* [daemon](#daemon)
+* [O que é IPC?](#o-que-é-ipc)
+* [Tipos de IPC](#tipos-de-ipc)
+* [pull-based](#pull-based)
+* [push-based](#push-based)
+* [Descrição dos tipos de IPC](#descrição-dos-tipos-de-ipc)
 * [Conclusão](#conclusão)
 * [Referências](#referências)
 
