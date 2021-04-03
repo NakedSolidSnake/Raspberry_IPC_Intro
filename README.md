@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="img/interprocess.png" />    
+</p>
+
 # Comunicação entre processos
 
 Nessa série iremos tratar de comunicação entre processos, recurso muito utilizado nos sistemas operacionais, veremos os tipos existentes e exemplos usando o famoso botão e LED, nos primeiros artigos iremos abordar a configuração do ambiente, instalação de programas e com uma introdução para explicar o que é IPC(Inter process communication).
